@@ -21,6 +21,7 @@ import PlanDetails from "./pages/PlanDetails";
 import Predictions from "./pages/Predictions";
 import Learning from "./pages/Learning";
 import SmartPlan from "./pages/SmartPlan";
+import FinancialAssistant from "./pages/FinancialAssistant";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -60,6 +61,7 @@ const App = () => (
                 <Route path="/reports" element={<ProtectedRoute><Reports /></ProtectedRoute>} />
                 <Route path="/settings" element={<ProtectedRoute><Settings /></ProtectedRoute>} />
                 <Route path="/smart-plan" element={<ProtectedRoute><SmartPlan /></ProtectedRoute>} />
+                <Route path="/assistant" element={<ProtectedRoute><FinancialAssistant /></ProtectedRoute>} />
                 <Route path="/new-plan" element={<ProtectedRoute><NewPlan /></ProtectedRoute>} />
                 <Route path="/plan/:id" element={<ProtectedRoute><PlanDetails /></ProtectedRoute>} />
                 <Route path="/predictions" element={<ProtectedRoute><Predictions /></ProtectedRoute>} />

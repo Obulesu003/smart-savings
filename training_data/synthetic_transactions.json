@@ -1,0 +1,1892 @@
+[
+  {
+    "date": "2024-03-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 61420,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2024-03-01",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 1155,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-03-04",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 2070,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2024-03-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 18898,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2024-03-06",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 1268,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2024-03-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3246,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2024-03-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4725,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2024-03-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3216,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2024-03-20",
+    "type": "income",
+    "category": "Bonus",
+    "amount": 28348,
+    "description": "Performance Bonus"
+  },
+  {
+    "date": "2024-03-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2439,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2024-03-23",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 1514,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2024-03-25",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 1440,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-03-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2859,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2024-04-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 61571,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2024-04-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 18945,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2024-04-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2664,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2024-04-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4736,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2024-04-13",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2558,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2024-04-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3123,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2024-04-18",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 1773,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2024-04-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2467,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2024-04-23",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 2933,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-04-27",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2777,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2024-04-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2898,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2024-05-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 61723,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2024-05-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 18992,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2024-05-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2506,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2024-05-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4748,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2024-05-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2720,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2024-05-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2883,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2024-05-21",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 1947,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2024-05-25",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 3120,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-05-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3134,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2024-05-28",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 3646,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2024-06-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 61875,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2024-06-04",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 3537,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-06-04",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 3171,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-06-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19039,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2024-06-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3174,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2024-06-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4760,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2024-06-11",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2953,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2024-06-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3036,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2024-06-18",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 1900,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2024-06-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2584,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2024-06-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2946,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2024-07-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 62028,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2024-07-03",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 1397,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-07-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19086,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2024-07-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2664,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2024-07-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4771,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2024-07-11",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 988,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2024-07-11",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 2003,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-07-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3131,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2024-07-18",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 1671,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2024-07-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3011,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2024-07-25",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2458,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2024-07-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2778,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2024-08-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 62181,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2024-08-03",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 1234,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2024-08-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19133,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2024-08-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2740,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2024-08-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4783,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2024-08-10",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2309,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2024-08-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2599,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2024-08-15",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 1965,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2024-08-15",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2954,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2024-08-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2820,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2024-08-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2612,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2024-09-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 62334,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2024-09-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19180,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2024-09-05",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 2702,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-09-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2818,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2024-09-08",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2806,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2024-09-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4795,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2024-09-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3113,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2024-09-16",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 3334,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-09-19",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 3343,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2024-09-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3210,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2024-09-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3090,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2024-10-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 62488,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2024-10-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19227,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2024-10-05",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 1667,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2024-10-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3041,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2024-10-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4807,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2024-10-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2936,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2024-10-14",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 1653,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-10-18",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 2350,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2024-10-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3038,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2024-10-22",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 1893,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-10-24",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2243,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2024-10-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3300,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2024-11-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 62642,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2024-11-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19275,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2024-11-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2506,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2024-11-07",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 4249,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-11-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4819,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2024-11-13",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2279,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2024-11-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2992,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2024-11-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2793,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2024-11-21",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 4305,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2024-11-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2596,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2024-12-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 62797,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2024-12-01",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 1775,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2024-12-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19322,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2024-12-06",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 1925,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2024-12-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3075,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2024-12-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4831,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2024-12-12",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2783,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2024-12-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3293,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2024-12-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3024,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2024-12-22",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2031,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2024-12-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2884,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2025-01-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 62952,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2025-01-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19370,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2025-01-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2632,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2025-01-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4842,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2025-01-12",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 1816,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-01-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2979,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2025-01-20",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 1771,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2025-01-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2768,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2025-01-26",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2660,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2025-01-26",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 3067,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-01-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2773,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2025-02-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 63107,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2025-02-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19417,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2025-02-05",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 2253,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-02-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3212,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2025-02-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4854,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2025-02-11",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 3066,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-02-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2866,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2025-02-15",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 14563,
+    "description": "Unexpected Medical Expense"
+  },
+  {
+    "date": "2025-02-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2600,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2025-02-26",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 1613,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2025-02-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3176,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2025-02-28",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2710,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-03-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 63262,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2025-03-02",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 1109,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-03-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19465,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2025-03-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2963,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2025-03-07",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2821,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2025-03-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4866,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2025-03-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3041,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2025-03-15",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2827,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2025-03-15",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 1043,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2025-03-19",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2785,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2025-03-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3111,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2025-03-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2487,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2025-04-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 63418,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2025-04-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19513,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2025-04-06",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2060,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2025-04-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2622,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2025-04-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4878,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2025-04-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3113,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2025-04-14",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 3961,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-04-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2714,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2025-04-22",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 2181,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-04-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3232,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2025-05-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 63575,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2025-05-02",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 4853,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-05-03",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 4126,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2025-05-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19561,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2025-05-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2516,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2025-05-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4890,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2025-05-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2568,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2025-05-15",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 3862,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2025-05-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2515,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2025-05-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2608,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2025-06-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 63732,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2025-06-03",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2538,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-06-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19610,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2025-06-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2608,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2025-06-07",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 2282,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-06-08",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 2656,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2025-06-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4902,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2025-06-13",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 1474,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2025-06-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3361,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2025-06-15",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 1523,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-06-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2557,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2025-06-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3319,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2025-07-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 63889,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2025-07-02",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 3506,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2025-07-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19658,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2025-07-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2985,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2025-07-08",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2154,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-07-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4915,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2025-07-10",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 3602,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-07-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2927,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2025-07-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2782,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2025-07-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3007,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2025-08-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 64046,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2025-08-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19707,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2025-08-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2987,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2025-08-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4927,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2025-08-10",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 3569,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-08-11",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 1371,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2025-08-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3341,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2025-08-15",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 2944,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-08-17",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 3622,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2025-08-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2601,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2025-08-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3375,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2025-09-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 64204,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2025-09-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19755,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2025-09-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2617,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2025-09-07",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 2605,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-09-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4939,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2025-09-11",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2130,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-09-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2833,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2025-09-19",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 2221,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-09-20",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 1899,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2025-09-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2849,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2025-09-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3037,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2025-10-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 64363,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2025-10-02",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 1167,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2025-10-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19804,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2025-10-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3018,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2025-10-09",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 1147,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2025-10-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4951,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2025-10-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2813,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2025-10-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3184,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2025-10-25",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 2068,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2025-10-26",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 1537,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-10-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3100,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2025-10-28",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2338,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-11-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 64521,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2025-11-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19853,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2025-11-06",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2368,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-11-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2862,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2025-11-07",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 2090,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2025-11-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4963,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2025-11-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2888,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2025-11-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2970,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2025-11-22",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 2382,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2025-11-24",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 1691,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-11-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3264,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2025-11-28",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2854,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2025-12-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 64681,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2025-12-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19902,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2025-12-06",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2525,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2025-12-06",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2872,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2025-12-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3322,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2025-12-09",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 1862,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-12-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4975,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2025-12-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2574,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2025-12-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3127,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2025-12-23",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 1888,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2025-12-23",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 2662,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2025-12-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3380,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2026-01-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 64840,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2026-01-01",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2495,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2026-01-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 19951,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2026-01-05",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 1890,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2026-01-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2672,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2026-01-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 4988,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2026-01-10",
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 2884,
+    "description": "Synthetic Shopping Expense"
+  },
+  {
+    "date": "2026-01-12",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 2850,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2026-01-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2594,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2026-01-16",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 2115,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2026-01-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3109,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2026-01-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2980,
+    "description": "Grocery Run Week 4"
+  },
+  {
+    "date": "2026-02-01",
+    "type": "income",
+    "category": "Salary",
+    "amount": 65000,
+    "description": "Monthly Salary (Synthetic)"
+  },
+  {
+    "date": "2026-02-01",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 3462,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2026-02-05",
+    "type": "expense",
+    "category": "Housing",
+    "amount": 20000,
+    "description": "Rent Payment"
+  },
+  {
+    "date": "2026-02-07",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3107,
+    "description": "Grocery Run Week 1"
+  },
+  {
+    "date": "2026-02-10",
+    "type": "expense",
+    "category": "Bills",
+    "amount": 5000,
+    "description": "Electricity & Internet"
+  },
+  {
+    "date": "2026-02-14",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2586,
+    "description": "Grocery Run Week 2"
+  },
+  {
+    "date": "2026-02-16",
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 2073,
+    "description": "Synthetic Healthcare Expense"
+  },
+  {
+    "date": "2026-02-19",
+    "type": "expense",
+    "category": "Transport",
+    "amount": 3558,
+    "description": "Synthetic Transport Expense"
+  },
+  {
+    "date": "2026-02-21",
+    "type": "expense",
+    "category": "Food",
+    "amount": 3175,
+    "description": "Grocery Run Week 3"
+  },
+  {
+    "date": "2026-02-27",
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 1540,
+    "description": "Synthetic Entertainment Expense"
+  },
+  {
+    "date": "2026-02-28",
+    "type": "expense",
+    "category": "Food",
+    "amount": 2805,
+    "description": "Grocery Run Week 4"
+  }
+]

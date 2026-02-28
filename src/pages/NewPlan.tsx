@@ -5,7 +5,8 @@ import { useFinancialPlans } from '@/hooks/useFinancialPlans';
 import { MainLayout } from '@/components/layout/MainLayout';
 import { FinancialInputForm } from '@/components/planner/FinancialInputForm';
 import { ResultsPanel } from '@/components/planner/ResultsPanel';
-import { FullPageLoader, LoadingSpinner } from '@/components/ui/LoadingSpinner';
+import { FullPageLoader } from '@/components/ui/LoadingSpinner';
+import { MonteCarloLoadingChart } from '@/components/planner/MonteCarloLoadingChart';
 import { 
   FinancialInputs, 
   FinancialPlan,
@@ -206,12 +207,22 @@ export default function NewPlan() {
                 </p>
               </div>
               
-              <FinancialInputForm 
-                onSubmit={handleFormSubmit}
-                isLoading={calculating}
-                isAIEngineLoading={isAILoading}
-                aiEngineProgress={aiProgressText}
-              />
+              {calculating ? (
+                <div className="w-full flex-col items-center justify-center space-y-4">
+                   <MonteCarloLoadingChart 
+                     goalAmount={inputs?.goalAmount || 1000000}
+                     timePeriod={inputs?.timePeriod || 10}
+                     monthlyInvestment={inputs?.monthlyIncome ? (inputs.monthlyIncome * 0.2) : 2000}
+                   />
+                </div>
+              ) : (
+                <FinancialInputForm 
+                  onSubmit={handleFormSubmit}
+                  isLoading={calculating}
+                  isAIEngineLoading={isAILoading}
+                  aiEngineProgress={aiProgressText}
+                />
+              )}
             </>
           ) : (
             results && inputs && (

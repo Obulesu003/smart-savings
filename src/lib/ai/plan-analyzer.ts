@@ -9,7 +9,7 @@ export interface AIAnalysisResult {
   explanation: string;
 }
 
-interface AnalysisInput {
+export interface AnalysisInput {
   inputs: {
     age: number;
     monthlyIncome: number;

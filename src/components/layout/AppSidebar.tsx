@@ -33,7 +33,8 @@ import {
     TrendingUp,
     PieChart,
     GraduationCap,
-    Sparkles
+    Sparkles,
+    Bot
 } from "lucide-react"
 import { useAuth } from "@/hooks/useAuth"
 import { Link, useLocation } from "react-router-dom"
@@ -54,6 +55,11 @@ export function AppSidebar() {
             title: "AI Smart Plan",
             url: "/smart-plan",
             icon: Sparkles,
+        },
+        {
+            title: "AI Assistant",
+            url: "/assistant",
+            icon: Bot,
         },
         {
             title: "Income",

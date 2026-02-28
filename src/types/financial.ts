@@ -47,6 +47,7 @@ export interface FinancialPlan {
   goalFeasibilityScore: number | null;
   projectedValue: number | null;
   isGoalAchievable: boolean | null;
+  monteCarloProbability?: number | null;
 
   createdAt: string;
   updatedAt: string;
